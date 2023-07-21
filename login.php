@@ -18,6 +18,8 @@ if (isset($_POST['submit'])){
       }
 }
 ?>
+ <link rel="stylesheet" href="css/style.css">
+    <link rel="shortcut icon" type="x-icon" href="images/logo.png">
 <body>
     <div>
     <form method="post" action="">
